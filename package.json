@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node snap.js"
+    "test": "npx percy exec -- node snap.js"
   },
   "author": "",
   "license": "ISC",
