@@ -1,3 +1,5 @@
 language: node_js
 node_js:
  - "node"
+before_script:
+  - export PERCY_TOKEN=3f59c43a35527c113f683f045600e815699883495ae359e0b6e16525d371c134
